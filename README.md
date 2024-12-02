@@ -130,25 +130,6 @@ func testLoadMoreCharactersFailure() {
 
 ---
 
-## Contributions
-
-Contributions are welcome! Follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes and create a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - **API**: [Rick and Morty API](https://rickandmortyapi.com/) for character data.
